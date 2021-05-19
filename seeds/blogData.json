@@ -1,17 +1,14 @@
 [
   {
     "name": "Why JavaScript?",
-    // "description": "Why should you learn JavaScript?",
     "blog_text": "This is a blog about why you should learn JavaScript.  It's the most popular programming language."
   },
   {
     "name": "HTML",
-    // "description": "Definition of HTML",
     "blog_text": "HTML stands for Hyper Text Markup Language.  It is the standard markup language for creating web pages."
   },
   {
     "name": "Learning to program",
-    // "description": "Why should you learn to program.",
     "blog_text": "Learning to program is rewarding and fun.  It may help you find a job you like."
   }
 ]
