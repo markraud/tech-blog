@@ -1,17 +1,17 @@
 [
   {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "blog_text": "This is some new blog text.  It will be different for every blogger. This is the first"
+    "name": "Why JavaScript?",
+    // "description": "Why should you learn JavaScript?",
+    "blog_text": "This is a blog about why you should learn JavaScript.  It's the most popular programming language."
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "blog_text": "This is some new blog text.  It will be different for every blogger. This is the second"
+    "name": "HTML",
+    // "description": "Definition of HTML",
+    "blog_text": "HTML stands for Hyper Text Markup Language.  It is the standard markup language for creating web pages."
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "blog_text": "This is some new blog text.  It will be different for every blogger. This is the third"
+    "name": "Learning to program",
+    // "description": "Why should you learn to program.",
+    "blog_text": "Learning to program is rewarding and fun.  It may help you find a job you like."
   }
 ]
