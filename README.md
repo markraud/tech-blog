@@ -47,7 +47,7 @@
 
   [Tech Blog GitHub Repo](https://github.com/markraud/tech-blog)
 
-  [Tech Blog Deployed to Heroku](https://github.com/markraud/tech-blog)
+  [Tech Blog Deployed to Heroku](https://pure-falls-13112.herokuapp.com/)
   
 
 
