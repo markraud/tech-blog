@@ -1,5 +1,6 @@
-header, .project:not(:last-child) {
-  border-bottom: 1px solid #ccc;
+header,
+.project:not(:last-child) {
+  border-bottom: 1px solid rgb(39, 30, 30);
 }
 
 .no-button {
@@ -7,18 +8,33 @@ header, .project:not(:last-child) {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: white;
   text-decoration: none;
   font-size: 100%;
 }
 
 .no-button:hover {
-  color: #065b83;
+  color: #1b89bc;
   text-decoration: underline;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
+body {
+  background-color: lightgrey;
+}
+
+header {
+  background-color: maroon;
+  color: black;
+}
+
+a {
+  color: white;
+}
+
+h2 a {
+  color: black;
+}
+
+h4 a {
+  color: black;
 }
