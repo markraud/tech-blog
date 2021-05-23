@@ -26,6 +26,10 @@
   ## Usage 
   When user accesses the homepage the user will be able to see a list of existing blogs.   User can click on the "login" link and will be take to another page that will allow them to either login or create a new account.  Once the user is logged in they can view their dashboard which is a list of all their existing blogs as well as post new blogs.  
 
+  Future work:  Comments are not working.  Ran out of time.  
+  Will need to perform more work to allow users to comment on other user's blog posts. 
+
+
   ## License 
   This application is covered by the MIT license.  Click the link for more information. 
 
